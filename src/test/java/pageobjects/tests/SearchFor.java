@@ -46,7 +46,7 @@ public class SearchFor {
         WebDriverWait wait = new WebDriverWait(driver, 1);
         driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
 
-        mainPage.setSearchField("bb");
+        mainPage.setSearchField("bbb");
 
 
 
